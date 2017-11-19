@@ -9,3 +9,5 @@ https://www.darkreading.com/cloud/russian-hackers-pilfered-data-from-nsa-contrac
 https://arstechnica.com/information-technology/2017/10/the-cases-for-and-against-claims-kaspersky-helped-steal-secret-nsa-secrets/
 
 http://www.securityweek.com/kaspersky-shares-more-details-nsa-incident
+
+https://www.pcauthority.com.au/news/nsa-worker-infected-computer-provided-access-to-equation-group-surveillance-code-kaspersky-says-476460?utm_source=feed&utm_medium=rss&utm_campaign=PC+%26+Tech+Authority+
