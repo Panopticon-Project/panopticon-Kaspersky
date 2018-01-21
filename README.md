@@ -13,3 +13,5 @@ http://www.securityweek.com/kaspersky-shares-more-details-nsa-incident
 https://www.pcauthority.com.au/news/nsa-worker-infected-computer-provided-access-to-equation-group-surveillance-code-kaspersky-says-476460?utm_source=feed&utm_medium=rss&utm_campaign=PC+%26+Tech+Authority+
 
 https://www.crn.com.au/news/kaspersky-says-pirated-office-software-behind-nsa-exploit-leak-476316?utm_source=feed&utm_medium=rss&utm_campaign=crn+
+
+http://www.ibtimes.com/russia-based-kaspersky-labs-had-access-stolen-nsa-documents-leaked-hackers-2637712
